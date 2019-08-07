@@ -6,3 +6,5 @@
 
 基于visual studio2015 +openCV3.43 环境
 
+
+使用C++进行编写
